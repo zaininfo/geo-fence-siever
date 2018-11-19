@@ -1,5 +1,5 @@
-{"latitude": "52.986375", "user_id": 12, "name": "Christina McArdle", "longitude": "-6.043701"}
-{"latitude": "51.92893", "user_id": 1, "name": "Alice Cahill", "longitude": "-10.27699"}
-{"latitude": "51.8856167", "user_id": 2, "name": "Ian McArdle", "longitude": "-10.4240951"}
-{"latitude": "53.2451022", "user_id": 4, "name": "Ian Kehoe", "longitude": "-6.238335"}
-{"latitude": "54.180238", "user_id": 17, "name": "Patricia Cahill", "longitude": "-5.920898"}
+{"latitude": "52.166947", "user_id": 12, "name": "Christina McArdle", "longitude": "13.618963"}
+{"latitude": "51.109502", "user_id": 1, "name": "Alice Cahill", "longitude": "9.385674"}
+{"latitude": "51.0661887", "user_id": 2, "name": "Ian McArdle", "longitude": "9.2385689"}
+{"latitude": "52.4256742", "user_id": 4, "name": "Ian Kehoe", "longitude": "13.424329"}
+{"latitude": "53.36081", "user_id": 17, "name": "Patricia Cahill", "longitude": "13.741766"}
